@@ -7,7 +7,7 @@ bleach==3.1.4
 certifi==2018.8.13
 cffi==1.11.5
 constantly==15.1.0
-cryptography==2.3.1
+cryptography==3.2
 cycler==0.10.0
 decorator==4.3.0
 entrypoints==0.2.3
